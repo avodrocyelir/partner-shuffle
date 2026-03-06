@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/partner-shuffle/static/css/main.e6c13ad2.css",
+    "main.js": "/partner-shuffle/static/js/main.4e1c15a1.js",
+    "static/js/453.9ff79892.chunk.js": "/partner-shuffle/static/js/453.9ff79892.chunk.js",
+    "index.html": "/partner-shuffle/index.html",
+    "main.e6c13ad2.css.map": "/partner-shuffle/static/css/main.e6c13ad2.css.map",
+    "main.4e1c15a1.js.map": "/partner-shuffle/static/js/main.4e1c15a1.js.map",
+    "453.9ff79892.chunk.js.map": "/partner-shuffle/static/js/453.9ff79892.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4e1c15a1.js"
+  ]
+}
